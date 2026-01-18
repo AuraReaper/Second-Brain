@@ -1,4 +1,2 @@
 - [[Concurrency MOC]]
 - [[Designing Data Intensive Applications MOC]]
-- [[Test]]
-- 
