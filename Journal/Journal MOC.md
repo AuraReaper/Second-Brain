@@ -1,0 +1,3 @@
+- [[ How to Keep Myself Updated]]
+- [[Things to Learn]]
+- [[Mentor Feedback (Kong)]]

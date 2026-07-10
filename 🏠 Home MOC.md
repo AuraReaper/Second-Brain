@@ -1,2 +1,2 @@
-- [[Concurrency MOC]]
-- [[Designing Data Intensive Applications MOC]]
+- [[ Journal MOC]]
+- [[MIT - Distributed Systems MOC]]
