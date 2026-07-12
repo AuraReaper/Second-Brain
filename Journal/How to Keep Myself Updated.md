@@ -4,8 +4,17 @@
 - **Designing Data-Intensive Applications (DDIA)** by Martin Kleppmann
 - **In Search of an Understandable Consensus Algorithm** _(The Raft Paper)_
 
+##  📓 Courses To Take
 
-## 🛠️ Project 1: The LSM-Tree Key-Value Engine
+- [MIT Distributed Systems](https://pdos.csail.mit.edu/6.824/schedule.html)
+- [CMU Intro to Database Systems](https://db.cs.cmu.edu/courses/)
+- [Applied Distributed Database](https://github.com/pingcap/talent-plan)
+- [Database Seminars](https://db.cs.cmu.edu/seminars/)
+- [Hash Table Internals](https://www.youtube.com/playlist?list=PLsdq-3Z1EPT2UnueESBLReaVSLIo_BuAc)
+- [Observability](https://learnobservability.com/) or [Observability with Grafana](https://www.udemy.com/course/grafana-prometheus-loki-alloy-tempo/?couponCode=25BBPMXNVD35)
+
+
+## 🛠️ Project 1: The LSM-Tree Key-Value Engine 
 
 > **Project Definition:**
 > 
