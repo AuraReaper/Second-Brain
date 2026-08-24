@@ -1,8 +1,15 @@
-## 📚 Books & Papers to Read
+## 📚 Books & Papers to Read #books 
 
 -  **Database Internals:** _A Deep Dive into How Distributed Data Systems Work_ by Alex Petrov
 - **Designing Data-Intensive Applications (DDIA)** by Martin Kleppmann
 - **In Search of an Understandable Consensus Algorithm** _(The Raft Paper)_
+- **The Pragmatic Programmer**
+- **A Philosophy of Software Design**
+- **Fundamentals of Software Architecture**
+- **Software Architecture: The Hard Parts**
+- **Software Engineering at Google: Lessons Learned from Programming Over Time**
+- **Site Reliability Engineering: How Google Runs Production Systems**
+- **System Design Interview: An insider's guide**
 
 ##  📓 Courses To Take
 
@@ -12,6 +19,8 @@
 - [Database Seminars](https://db.cs.cmu.edu/seminars/)
 - [Hash Table Internals](https://www.youtube.com/playlist?list=PLsdq-3Z1EPT2UnueESBLReaVSLIo_BuAc)
 - [Observability](https://learnobservability.com/) or [Observability with Grafana](https://www.udemy.com/course/grafana-prometheus-loki-alloy-tempo/?couponCode=25BBPMXNVD35)
+- [Computer Networks](https://youtube.com/playlist?list=PLd1s-PEC5Pio&si=XsEPmrpmqp029dEG)
+- 
 
 
 ## 🛠️ Project 1: The LSM-Tree Key-Value Engine 

@@ -1,0 +1,16 @@
+
+- Learn Datadog
+	- [Core Skills Learning Path](https://learn.datadoghq.com/bundles/core-skills-learning-path)
+	- [Backend Engineer Learning Path](https://learn.datadoghq.com/bundles/backend-engineer-learning-path)
+	- [Site Reliability Engineer Learning Path](https://learn.datadoghq.com/bundles/site-reliability-engineer-learning-path)
+- LeetCode maybe
+- CoderArmy Devops [Course](https://strikes.in/course/devops)
+- Complete P1 of MIT 6.814
+- Important Dev Tools 
+	- k9s
+	- starship prompt
+	- openspec
+	- worktrunk
+	- a5c babysitter
+	- [herdr](https://herdr.dev/)
+- Design and Implement a Notification Service
