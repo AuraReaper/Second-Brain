@@ -7,10 +7,7 @@
 - CoderArmy Devops [Course](https://strikes.in/course/devops)
 - Complete P1 of MIT 6.814
 - Important Dev Tools 
-	- k9s
-	- starship prompt
+	- **k9s**
 	- openspec
-	- worktrunk
 	- a5c babysitter
-	- [herdr](https://herdr.dev/)
 - Design and Implement a Notification Service
